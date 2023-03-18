@@ -1,0 +1,229 @@
+2023/03/18 14:30:59 [INFO] Packer version: 1.6.6 [go1.19.6 linux amd64]
+2023/03/18 14:30:59 Checking 'PACKER_CONFIG' for a config file path
+2023/03/18 14:30:59 'PACKER_CONFIG' not set; checking the default config file path
+2023/03/18 14:30:59 Attempting to open config file: /home/kali/.packerconfig
+2023/03/18 14:30:59 [WARN] Config file doesn't exist: /home/kali/.packerconfig
+2023/03/18 14:30:59 Setting cache directory: /home/kali/Downloads/helpdesk/Packer/ubuntu22.04-server-vmware/packer_cache
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_path, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for http_directory, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for shell_scripts, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_cluster, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_guest_os_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_version, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for thin_provision, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_server, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cdrom_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_firmware, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_network, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_name, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_mem_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datastore, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_sockets, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datacenter, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_file, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for disk_eagerly_scrub, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_boot_wait, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_cores, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_folder, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_url, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_controller_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_network_card, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_insecure_connection, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_host, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_firmware, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datastore, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_network, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_name, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_mem_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datacenter, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_file, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_sockets, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_cores, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for disk_eagerly_scrub, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_boot_wait, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_insecure_connection, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_host, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_folder, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_url, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_controller_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_network_card, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_cluster, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_path, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for http_directory, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for shell_scripts, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_server, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_guest_os_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_version, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for thin_provision, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cdrom_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_controller_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_network_card, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_insecure_connection, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_host, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_folder, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_url, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for shell_scripts, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_cluster, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_path, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for http_directory, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for thin_provision, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_server, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_guest_os_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_version, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cdrom_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_firmware, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_mem_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datastore, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_network, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_name, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_sockets, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datacenter, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_file, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_cores, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for disk_eagerly_scrub, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_boot_wait, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for buildtime, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_firmware, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datastore, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_network, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_name, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_mem_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datacenter, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_file, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_sockets, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_cores, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for disk_eagerly_scrub, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_boot_wait, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_insecure_connection, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_host, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_folder, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_url, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_controller_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_network_card, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_cluster, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_path, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for http_directory, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for shell_scripts, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_server, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_guest_os_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_version, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for thin_provision, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cdrom_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for buildtime, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_file, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_checksum_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_sockets, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datacenter, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cpu_cores, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for disk_eagerly_scrub, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_boot_wait, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_host, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_folder, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_url, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_controller_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_network_card, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_insecure_connection, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_cluster, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for iso_path, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for http_directory, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for shell_scripts, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_server, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_guest_os_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_version, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for thin_provision, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for ssh_username, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_disk_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_cdrom_type, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_firmware, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_datastore, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_network, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_name, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vm_mem_size, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for vcenter_password, so skipping
+2023/03/18 14:30:59 [TRACE] validateValue: not active for buildtime, so skipping
+2023/03/18 14:30:59 Creating plugin client for path: /usr/bin/packer
+2023/03/18 14:30:59 Starting plugin: /usr/bin/packer []string{"/usr/bin/packer", "plugin", "packer-builder-vsphere-iso"}
+2023/03/18 14:30:59 Waiting for RPC address for: /usr/bin/packer
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: [INFO] Packer version: 1.6.6 [go1.19.6 linux amd64]
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: Checking 'PACKER_CONFIG' for a config file path
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: 'PACKER_CONFIG' not set; checking the default config file path
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: Attempting to open config file: /home/kali/.packerconfig
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: [WARN] Config file doesn't exist: /home/kali/.packerconfig
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: Setting cache directory: /home/kali/Downloads/helpdesk/Packer/<sensitive>22.04-server-vmware/packer_cache
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: args: []string{"packer-builder-vsphere-iso"}
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: Plugin address: unix /tmp/packer-plugin1232254310
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: Waiting for connection...
+2023/03/18 14:30:59 Received unix RPC address for /usr/bin/packer: addr is /tmp/packer-plugin1232254310
+2023/03/18 14:30:59 packer-builder-vsphere-iso plugin: Serving a plugin connection...
+2023/03/18 14:30:59 ConfigSpec failed: gob: type cty.Type has no exported fields
+2023/03/18 14:30:59 waiting for all plugin processes to complete...
+2023/03/18 14:30:59 /usr/bin/packer: plugin process exited
+panic: ConfigSpec failed: gob: type cty.Type has no exported fields [recovered]
+	panic: ConfigSpec failed: gob: type cty.Type has no exported fields
+
+goroutine 1 [running]:
+log.Panic({0xc00083e8e8?, 0x0?, 0x0?})
+	log/log.go:388 +0x65
+github.com/hashicorp/packer/packer/plugin.(*cmdBuilder).checkExit(0xc00069e910?, {0x314b860, 0xc00069e940}, 0x0)
+	github.com/hashicorp/packer/packer/plugin/builder.go:47 +0x7f
+github.com/hashicorp/packer/packer/plugin.(*cmdBuilder).ConfigSpec.func1()
+	github.com/hashicorp/packer/packer/plugin/builder.go:19 +0x39
+panic({0x314b860, 0xc00069e940})
+	runtime/panic.go:884 +0x212
+github.com/hashicorp/packer/packer-plugin-sdk/rpc.(*commonClient).ConfigSpec(0xc00048a160)
+	github.com/hashicorp/packer/packer-plugin-sdk/rpc/common.go:44 +0x297
+github.com/hashicorp/packer/packer/plugin.(*cmdBuilder).ConfigSpec(0xc000405300?)
+	github.com/hashicorp/packer/packer/plugin/builder.go:22 +0x65
+github.com/hashicorp/packer/hcl2template.decodeHCL2Spec({0x4447708, 0xc00078fad0}, 0xb?, {0x7f04a4141af0?, 0xc000693908?})
+	github.com/hashicorp/packer/hcl2template/decode.go:17 +0x39
+github.com/hashicorp/packer/hcl2template.(*PackerConfig).startBuilder(0x3379060?, {{0xc0004edb80, 0xb}, {0xc0006721f8, 0x13}, 0xc0009a5040, {0x0, 0x0}, {0x0, 0x0}}, ...)
+	github.com/hashicorp/packer/hcl2template/types.source.go:110 +0x16a
+github.com/hashicorp/packer/hcl2template.(*PackerConfig).GetBuilds(0xc0006b3560, {{0x0, 0x0, 0x0}, {0x0, 0x0, 0x0}, 0x0, 0x1, {0x7fffb58e8f50, ...}})
+	github.com/hashicorp/packer/hcl2template/types.packer_config.go:396 +0xb48
+github.com/hashicorp/packer/command.(*BuildCommand).RunContext(0xc000480420, {0x4447120?, 0xc00048e600}, 0xc000662090)
+	github.com/hashicorp/packer/command/build.go:156 +0x1b5
+github.com/hashicorp/packer/command.(*BuildCommand).Run(0xc000480420, {0xc0000520b0, 0x7, 0x7})
+	github.com/hashicorp/packer/command/build.go:40 +0xc5
+github.com/mitchellh/cli.(*CLI).Run(0xc000002a00)
+	github.com/mitchellh/cli/cli.go:261 +0x5f8
+main.wrappedMain()
+	github.com/hashicorp/packer/main.go:249 +0xb11
+main.realMain()
+	github.com/hashicorp/packer/main.go:50 +0xf5
+main.main()
+	github.com/hashicorp/packer/main.go:36 +0x19
