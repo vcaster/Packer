@@ -18,4 +18,5 @@ vcenter_network                 = "VM Network"
 vcenter_folder                  = "Templates"
 
 # ISO Objects
+iso_url                         = "https://releases.ubuntu.com/jammy/ubuntu-22.04.2-live-server-amd64.iso" 
 iso_path                        = "[Datastore2_NonSSD] /packer_cache/ubuntu-22.04.3-live-server-amd64.iso"
